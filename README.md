@@ -22,4 +22,5 @@ Information for schematic files and PCB can be found here: https://easyeda.com/d
   * Add more ACUnit support
   * Modify code endpoint to return list of supported devices instead of hardcoding them into the mobile application
   * Add support for alexa voice commands
+  * Clean code
   
