@@ -24,3 +24,7 @@ Information for schematic files and PCB can be found here: https://easyeda.com/d
   * Add support for alexa voice commands
   * Clean code
   
+  
+# Validated Brands
+ * Mitsubishi IR Code confirmed by @dimityrivanov
+  
