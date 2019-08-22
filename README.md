@@ -11,7 +11,7 @@ Information for schematic files and PCB can be found here: https://easyeda.com/d
   * After that SSDP service is started.
   * Mobile application find the device over SSDP protocol
   * From the application you first have to init the device before using it with voice assitant in order for that to work mobile device and hardware unit should be at the same wifi network.
-  * After this process you can controll your AC threw mobile application UI (you have to press a button to send a command) or the voice assitant (each voice action is command to AC)
+  * After this process you can control your AC threw mobile application UI (you have to press a button to send a command) or the voice assitant (each voice action is command to AC)
  
 # Mobile applicaiton source code
   * https://github.com/dimityrivanov/Android-ACController
