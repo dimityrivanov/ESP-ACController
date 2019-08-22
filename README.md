@@ -1,5 +1,5 @@
 # ACController
-This is a open source project with ESP8266 that aims to controll any air conditioner type over IR protocol using Android/iOS application or voice assitant like Google Home / Alexa.
+This is a open source project with ESP8266 that aims to control any air conditioner type over IR protocol using Android/iOS application or voice assistant like Google Home / Alexa.
 
 # PCB Preview (First prototype PCB)
 ![image](https://i.ibb.co/BCLy09t/Screenshot-2019-08-21-at-23-34-39.png)
