@@ -27,4 +27,6 @@ Information for schematic files and PCB can be found here: https://easyeda.com/d
   
 # Validated Brands
  * Mitsubishi IR Code confirmed by @dimityrivanov
+ * Panosonic IR Code not confirmed
+ * Daikin IR Code not confirmed
   
