@@ -15,6 +15,7 @@ Information for schematic files and PCB can be found here: https://easyeda.com/d
  
 # Mobile applicaiton source code
   * https://github.com/dimityrivanov/Android-ACController
+  P.P:The mobile apk file might not be up to date compared to the source code in the repo!
   
 # Roadmap
   * Develop iOS application like the Android one
