@@ -30,4 +30,9 @@ Information for schematic files and PCB can be found here: https://easyeda.com/d
  * Mitsubishi IR Code confirmed by @dimityrivanov
  * Panosonic IR Code not confirmed
  * Daikin IR Code not confirmed
+ 
+ 
+ This project is part of:
+ Sinric -> https://github.com/kakopappa/sinric
+ ESPIRRemote -> https://github.com/crankyoldgit/IRremoteESP8266/wiki/Related-User-Projects#diy
   
